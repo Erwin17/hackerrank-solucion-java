@@ -5,9 +5,6 @@ import java.util.Scanner;
 
 public class Java_String_Reverse {
 
-
-
-
     public static void main(String[] args) {
         String input = "madam";
 
